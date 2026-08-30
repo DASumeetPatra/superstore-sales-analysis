@@ -1,0 +1,14 @@
+# Excel temporary/lock files
+~$*.xlsx
+~$*.xls
+~$*.xlsm
+~$*.csv
+
+# Power BI temporary files
+*.tmp
+*.pbix.tmp
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
